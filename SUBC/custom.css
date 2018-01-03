@@ -1,0 +1,25 @@
+header{
+	margin-bottom: 80px
+
+}
+
+body{
+	margin-top: 5px
+}
+
+ /*hovering and display text*/ 
+.hover_Pic{
+}
+.hover_Pic:hover{
+
+	opacity: 0.5;
+	transition:opacity 2s;
+}
+
+.carousel-caption{
+	bottom: 250px;
+	color: #002132;
+	opacity: 0;
+}
+
+
