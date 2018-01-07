@@ -14,6 +14,9 @@ h3{
 p{
 	text-align: center;
 }
+img{
+	max-height: 400px;
+}
 
 
  /*hovering and display text*/ 
@@ -27,7 +30,7 @@ p{
 }
 
 .carousel-caption{
-	bottom: 250px;
+	vertical-align: middle;
 	color: #002132;
 	opacity: 0;
 }
